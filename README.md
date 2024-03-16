@@ -33,3 +33,5 @@ This project implements a product image classifier for an e-commerce app. The cl
 [nourhan reda abdelraouf]
 
 
+## video
+https://drive.google.com/file/d/1ogRwPCTPbmkMrzjcoc2xPkxMcocOmMGW/view?usp=drive_link
