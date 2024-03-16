@@ -32,5 +32,4 @@ This project implements a product image classifier for an e-commerce app. The cl
 ## Author
 [nourhan reda abdelraouf]
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
